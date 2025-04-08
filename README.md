@@ -18,7 +18,7 @@
 
 ## 📸 Ekran Görüntüsü
 
-> (📷 Buraya `docs/` klasörüne koyduğun ekran görüntüsünü ekle)
+> ~Eklenecek
 
 ## 🛠️ Kurulum
 
@@ -93,8 +93,8 @@ psutil
 
 ## 👨‍💻 Geliştirici
 
-- **Adınız / GitHub kullanıcı adınız**
-- Eğer varsa X / Discord / mail linki
+- **Faruk-Kara**
+- Discord: t.o.f.k.
 
 ## 📄 Lisans
 
